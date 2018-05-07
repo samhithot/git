@@ -1,4 +1,4 @@
-# Topics
+## Topics
 
 Assignment1: 
 * Initialize a directory as git repository.
