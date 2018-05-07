@@ -37,7 +37,7 @@ Assignment6:
 * Push tags into remote repo. 
 * Create tag on a one day old commit. 
 * Checkout to a tag.
-* Clone a repo with tag name.
+* Clone a repo with tag name..
 * Clone a repo with specific branch (other than master)
 * Clone a repo on a specific commit.
   
